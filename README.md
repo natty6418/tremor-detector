@@ -74,6 +74,5 @@ You can customize various parameters to adjust the tremor detection system:
 - Add data logging capabilities to store tremor data over longer periods.
 - Integrate with mobile applications or cloud services for remote monitoring.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
